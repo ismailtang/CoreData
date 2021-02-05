@@ -1,0 +1,3 @@
+include ':coredata'
+include ':app'
+rootProject.name = "coredata"
